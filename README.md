@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattwbdv
 - 👀 I’m interested in full stack web development  
-- 🌱 I’m currently learning python, node, and react
-- 💞️ I’m looking to collaborate on anything that will help me improve my skills 
+- 🌱 I’m currently learning node, react, and python 
+- 💞️ I’m looking to support and collaborate on projects that support a free and open internet for everyone
 - 📫 How to reach me koenigmattd@gmail.com
 
 
